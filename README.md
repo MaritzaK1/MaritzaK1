@@ -1,13 +1,13 @@
 👋 Hi, I'm Meric!
-💻 Backend Developer | 🌐 Aspiring Fullstack Developer
+💻 Backend Developer | 🌐 Fullstack Developer
 
 🚀 Experience:
 
--🟢 Node.js
--🔵 Vue.js
--🔧 Nest.js
--⚛️ Next.js
--📱 Flutter
+- 🟢 Node.js/n
+- 🔵 Vue.js
+- 🔧 Nest.js
+- ⚛️ Next.js
+- 📱 Flutter
 🔍 I'm passionate about backend technologies and continuously expanding my frontend skills to become a fullstack developer. Always learning, always building!
 <!---
 MaritzaK1/MaritzaK1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
